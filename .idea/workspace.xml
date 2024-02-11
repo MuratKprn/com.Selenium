@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d83ac43d-2e80-41b5-b41d-2f208f2d6e7b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/A_DriverCreation/C01_WebDriverCreation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/B_DriverMerhods/C01_GetMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/B_DriverMerhods/C02_NavigateMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/B_DriverMerhods/C03_ManageMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C_WebElementMethods/C01_WebElementMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C_WebElementMethods/C02_FindElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/D_Locaters/C01_ByIdLocator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/D_Locaters/C02_ByClassNameLocator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/D_Locaters/C03_ByLinkText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/D_Locaters/C04_XPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/D_Locaters/C05_CSS_Selector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/D_Locaters/C06_RelativeLocators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Z_Utilities/ReusableMethods.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2cBHI0NILmbuAu7I5uBkbA1VCRk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.C01_ByIdLocater.executor": "Run",
+    "Application.C01_WebDriverCreation.executor": "Run",
+    "Application.C01_WebElementMethods.executor": "Run",
+    "Application.C02_ByClassNameLocator.executor": "Run",
+    "Application.C02_Test.executor": "Run",
+    "Application.C03_ByLinkText.executor": "Run",
+    "Application.C03_GetMethods.executor": "Run",
+    "Application.C04_NavigateMethods.executor": "Run",
+    "Application.C04_XPath.executor": "Run",
+    "Application.C05_CSS_Selector.executor": "Run",
+    "Application.C05_ManageMethods.executor": "Run",
+    "Application.C06_RelativeLocators.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\murat\IdeaProjects\com.Selenium\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.C02_FindElements">
+    <configuration name="C01_WebElementMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C_WebElementMethods.C01_WebElementMethods" />
+      <module name="com.Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C_WebElementMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_FindElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C_WebElementMethods.C02_FindElements" />
+      <module name="com.Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C_WebElementMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C04_XPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D_Locaters.C04_XPath" />
+      <module name="com.Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D_Locaters.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C05_CSS_Selector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D_Locaters.C05_CSS_Selector" />
+      <module name="com.Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D_Locaters.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C06_RelativeLocators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D_Locaters.C06_RelativeLocators" />
+      <module name="com.Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D_Locaters.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.C02_FindElements" />
+        <item itemvalue="Application.C01_WebElementMethods" />
+        <item itemvalue="Application.C06_RelativeLocators" />
+        <item itemvalue="Application.C05_CSS_Selector" />
+        <item itemvalue="Application.C04_XPath" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.21-temurin-11.0.21-4caba194b151-7ac2705d" />
+        <option value="jdk-11.0.22-temurin-11.0.22-f644763e9732-193cb75d" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d83ac43d-2e80-41b5-b41d-2f208f2d6e7b" name="Changes" comment="" />
+      <created>1707577967340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707577967340</updated>
+    </task>
+    <servers />
+  </component>
+</project>
